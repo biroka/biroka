@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there 👋, my name is Attila and welcome to my ✨ _special_ ✨ repository!
+### Hi there 👋, my name is Attila and ✨ welcome ✨ !
 <!--
 
 Here are some ideas to get you started:
