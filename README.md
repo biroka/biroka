@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I'm PhD candidate in ComputerScience at [UMFST](https://www.umfst.ro) (Romania), in Health Sciences at [UMA](https://www.uma.es) (Spain).
 - 🔭 I'm Researcher at UK Biobank (UK), Grupo de Investigation Clinimetria (Spain).
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/).
-- - ⚡ Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling.
+- ⚡ Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling.
 
 
 <p align="center">
