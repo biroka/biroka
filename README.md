@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biroattila/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Attila-blue?logo=linkedin" /></a>
-  <a href="https://www.createsmartapp.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20createsmartapp.com-blue.svg" /></a>
+  <a href="http://h2h.hu/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20h2h.hu-blue.svg" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=biroattila" target="_blank"><img src="https://img.shields.io/twitter/follow/biroattila?style=social" /></a>
 </p>
 
