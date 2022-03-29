@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working as CTO and CBDO at ITware.
-- 🌱 I’m currently learning AI connected to sports health and distant diagnosis.
+### - 🌱 I’m currently learning AI connected to sports health and distant diagnosis.
 - 🔭 I'm PhD candidate in ComputerScience at [UMFST](https://www.umfst.ro) (Romania), in Health Sciences at [UMA](https://www.uma.es) (Spain).
 - 🔭 I'm Researcher at UK Biobank (UK), Grupo de Investigation Clinimetria (Spain).
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/).
