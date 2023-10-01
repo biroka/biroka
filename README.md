@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=biroka&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/biroka)
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=biroka&theme=react-dark)](https://github.com/biroka)
-
 </p>
