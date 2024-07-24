@@ -1,5 +1,9 @@
 ##  Coursera certificates
 
+2024
+1. 2024.07.23 :: Coursera - **The Science of Well-Being** by Yale University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_The%20Science%20of%20Well-Being_%20P4K3RMP9DPM5.pdf)
+
+
 2022
 1. 2022.10.28 :: Coursera - **Cybersecurity Capstone- Breach Response Case Studies** by IBM [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Cybersecurity%20Capstone-%20Breach%20Response%20Case%20Studies_HSEBVQVJM8EQ.pdf)
 2. 2022.10.24 :: Coursera - **Penetration Testing, Incident Response and Forensics** by IBM [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Penetration%20Testing%2C%20Incident%20Response%20and%20Forensics_DJXCRXUDCZXY.pdf)
