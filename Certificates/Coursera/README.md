@@ -1,8 +1,9 @@
 ##  Coursera certificates
 
 2024
-1. 2024.07.23 :: Coursera - **Ethics,Technology and Engineering** by Eindhoven University of Technology and 4TU.Ethics [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Ethics-Technology%20and%20Engineering_KYV5NR5ZUJYZ.pdf)
-2. 2024.07.23 :: Coursera - **The Science of Well-Being** by Yale University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_The%20Science%20of%20Well-Being_%20P4K3RMP9DPM5.pdf)
+1. 2024.07.23 :: Coursera - **Principles of Management** by Johns Hopkins University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Principles%20of%20Management_UX2LR7CMEGK5.pdf)
+2. 2024.07.23 :: Coursera - **Ethics,Technology and Engineering** by Eindhoven University of Technology and 4TU.Ethics [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Ethics-Technology%20and%20Engineering_KYV5NR5ZUJYZ.pdf)
+3. 2024.07.23 :: Coursera - **The Science of Well-Being** by Yale University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_The%20Science%20of%20Well-Being_%20P4K3RMP9DPM5.pdf)
 
 2023
 1. 2024.04.10 :: Coursera - **The Data Scientist’s Toolbox** by Johns Hopkins University [[link]](https://github.com/biroka/biroka/blob/main/Certificates/Coursera/Coursera_Ethics-Technology%20and%20Engineering_KYV5NR5ZUJYZ.pdf)
