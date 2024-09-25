@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biroattila/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Attila-blue?logo=linkedin" /></a>
-  <a href="http://h2h.hu/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20h2h.hu-blue.svg" /></a>
+  <a href="http://abiro.me/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20h2h.hu-blue.svg" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=biroattila" target="_blank"><img src="https://img.shields.io/twitter/follow/biroattila?style=social" /></a>
 </p>
 
 - 🔭 Work: ITware, Hungary
-- 🔭 Study: PhD candidate in ComputerScience at [UMFST](https://www.umfst.ro) (Romania), in Health Sciences at [UMA](https://www.uma.es) (Spain).
+- 🔭 Study: 2xPhD candidate: in Computer Science at [UMFST](https://www.umfst.ro) (Romania), in Health Sciences at [UMA](https://www.uma.es) (Spain).
 - 🔭 Research(er): at UK Biobank (UK), Grupo de Investigation Clinimetria (Spain).
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/).
 - ⚡ Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling.
