@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 Work: ITware, Hungary
-- 🔭 Study: 2xPhD candidate: in Computer Science at [UMFST](https://www.umfst.ro) (Romania), in Health Sciences at [UMA](https://www.uma.es) (Spain).
-- 🔭 Research(er): at UK Biobank (UK), Grupo de Investigation Clinimetria (Spain).
+- 🔭 Study: 2xPhD: Computer Science, Health Sciences.
+- 🔭 Research(er): EKIK Research Centre (Hungary), Grupo de Investigation Clinimetria (Spain).
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/).
 - ⚡ Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling.
 
