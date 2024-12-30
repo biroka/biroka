@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Attila and ✨ welcome ✨ !
+### Hi there 👋, my name is Attila (アティラ） and ✨ welcome ✨ !
 <!--
 
 Here are some ideas to get you started:
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/intent/follow?screen_name=biroattila" target="_blank"><img src="https://img.shields.io/twitter/follow/biroattila?style=social" /></a>
 </p>
 
-- 🔭 Work: ITware, Hungary
-- 🔭 Study: 2xPhD: Computer Science, Health Sciences.
+- 🔭 Work: ITware, Hungary /現職：Chief Technology Officer （CTO）、AI研究者/
+- 🔭 Study: 2xPhD: Computer Science, Health Sciences. /資格：情報学博は、ヘルスサイエンス博士/
 - 🔭 Research(er): EKIK Research Centre (Hungary), Grupo de Investigation Clinimetria (Spain).
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/).
 - ⚡ Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling.
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=biroka&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/biroka)
 
 </p>
+
