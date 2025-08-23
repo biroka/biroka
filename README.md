@@ -36,9 +36,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=biroka&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
 
-<p align="center">
+<!--p align="center">
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=biroka&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/biroka)
 
-</p>
+</p-->
 
