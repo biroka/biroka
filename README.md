@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 - Work: ITware, Hungary /現職：Chief Technology Officer CTO), AI研究者/
-- 2xPhDs: Informatics, Health Sciences /資格：情報学博は, ヘルスサイエンス博士/
+- 2xPhD: Informatics, Health Sciences /資格：情報学博は, ヘルスサイエンス博士/
 - Study: PhD @Applied Mathematics (ON-GOING), Obuda University (Hungary)
 - Research(er): EKIK Research Centre (Hungary), Grupo de Investigation Clinimetria (Spain)
 - Research fellow at the Obuda University, Budapest, Hungary
