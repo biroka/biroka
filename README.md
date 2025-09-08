@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biroka&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
   <a href="https://www.linkedin.com/in/biroattila/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Attila-blue?logo=linkedin" /></a>
   <a href="http://abiro.me/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20h2h.hu-blue.svg" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=biroattila" target="_blank"><img src="https://img.shields.io/twitter/follow/biroattila?style=social" /></a>
 </p>
+
 
 - Work: ITware, Hungary /現職：Chief Technology Officer CTO), AI研究者/
 - 2xPhD: Informatics, Health Sciences /資格：情報学博は, ヘルスサイエンス博士/
@@ -28,13 +30,15 @@ Here are some ideas to get you started:
 - Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biroka&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biroka" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biroka&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biroka&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
-</p>
+
+
 
 <!--p align="center">
 
