@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-<!--p align="center">
+<p align="center">
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=biroka&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/biroka)
 
-</p-->
+</p>
 
