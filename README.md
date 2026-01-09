@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biroka" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=biroka&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/biroka)
 
-</p>
+</p-->
 
