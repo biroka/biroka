@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - Work: ITware, Hungary /現職：Chief Technology Officer CTO), AI研究者/
 - 2xPhD: Informatics, Health Sciences /資格：情報学博は, ヘルスサイエンス博士/
 - Study: PhD @Applied Mathematics (ON-GOING), Obuda University (Hungary)
-- Research(er): EKIK Research Centre (Hungary), Grupo de Investigation Clinimetria (Spain)
+- Research(er): EKIK/PHYSCON Research Centre (Hungary), Grupo de Investigation Clinimetria (Spain), ARTEMIS (Romania), CIRG (Romania)
+- Postdoctoral Researcher: UMFST GE Palade of Targu Mures (Romania)
 - Research fellow at the Obuda University, Budapest, Hungary
 - You can reach me on [Linkedin](https://www.linkedin.com/in/biroattila/)
 - Fun fact: I like Electric Unicycling (EUC), cycling, ice skating and travelling
